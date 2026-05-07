@@ -14,7 +14,7 @@
 /*!*************************!*\
   !*** ./src/greeting.js ***!
   \*************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+(__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   greeting: () => (/* binding */ greeting)\n/* harmony export */ });\nconst greeting = \"Hello Odinite!\";\n\n//# sourceURL=webpack://webpack-practice/./src/greeting.js?\n}");
 
@@ -24,9 +24,9 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+(__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _greeting__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./greeting */ \"./src/greeting.js\");\n\r\n\r\nconsole.log(_greeting__WEBPACK_IMPORTED_MODULE_0__.greeting);\r\n\n\n//# sourceURL=webpack://webpack-practice/./src/index.js?\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _greeting_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./greeting.js */ \"./src/greeting.js\");\n\r\n\r\nconsole.log(_greeting_js__WEBPACK_IMPORTED_MODULE_0__.greeting);\r\n\n\n//# sourceURL=webpack://webpack-practice/./src/index.js?\n}");
 
 /***/ }
 
